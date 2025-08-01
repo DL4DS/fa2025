@@ -1,5 +1,8 @@
 # Uncomment the below when there are previous offerings of this course.
 offerings:
+  - title: Spring 2025
+    url: https://dl4ds.github.io/sp2025/
+
   - title: Fall 2024
     url: https://dl4ds.github.io/fa2024/
   
