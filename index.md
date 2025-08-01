@@ -100,46 +100,11 @@ where
 - $$P_r$$ is the revised score after revising and resubmitting within 7 days of graded assignment posting
 - $$P_l$$ is the late score of the assignment after late penalty is applied
 
-### Attendance/Polls
-
-There will be (at least one) in-class Piazza poll in each lecture to:
-
-* help facilitate in-class discussion
-* serve as quick knowledge check
-
-It:
-* will be opened in class for a few minutes and then closed immediately after,
-* doubles as attendance proxy,
-* will be graded pass/fail -- basically submit to pass
-
-**You must be in class to complete the poll.**
-
-> You get four (4) absences with no excuse required as well as valid excused absences, e.g. illness.
-> Please email instructor, preferably in advance of class.
-
-### Midterm Challenge
-
-- We will assign a mid-term deep learning training contest
-- You must work individually and you will have 2 weeks to complete the assignment
-- You will be given a dataset and a task to complete
-- There will be a leaderboard and extra credit for the top 10 leaders
-
-### Final Project
-- A final project where you will apply deep learning methods to a problem or
-  application of interest to you. See the [Project]({{ site.baseurl }}{% link project.md %}) page for more
-  information.
-
 ## Course Assessment
 
-- Final Project: 45%
-- Mid-term Project/Competition: 25%
 - Homeworks: 25%
-- Class Participation/Attendance/Polls: 5%
-
-
-## Final Project
-See the [Project]({{ site.baseurl }}{% link project.md %}) page for more
-information.
+- Projects: 40%
+- Discussions: 35%
 
 ## Student Code of Conduct
 

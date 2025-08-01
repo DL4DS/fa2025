@@ -47,8 +47,6 @@ collections:
         output: true
     announcements:
         output: false
-    projects:
-        output: true
 
 
 defaults:
