@@ -1,19 +1,9 @@
 instructors:
-  - name: Thomas Gardos
-    profile_pic: /_images/pp/gardos.jpg
-    webpage: https://www.bu.edu/cds-faculty/profile/thomas-gardos/
-    email: tgardos@bu.edu
+  - name: Jeffrey Considine
+    profile_pic: /_images/pp/considine.jpg
+    webpage: https://jefconsidine.com/
+    email: jconsidi@bu.edu
 
 teaching_assistants:
-  - name: Xavier Thomas
-    profile_pic: /_images/pp/xavier.jpg
-    webpage: https://xavierohan.github.io
-    email: xthomas@bu.edu
-  - name: The AI Terrier Tutor (For Registered Students Only)
-    profile_pic: /_images/pp/Terrier_Logo.png
-    webpage: https://dl4ds-sp25-tutor.hf.space/
-
-course_assistants:
-  - name: Hemangi Suthar
-    profile_pic: /_images/pp/hemangi.jpeg
-    email: hemangis@bu.edu
+  - name: Carrie Feng
+    email: carrieff@bu.edu

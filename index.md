@@ -9,33 +9,24 @@ layout: home
 
 ## Personnel and Logistics
 
-**Lectures (A1):** Tuesdays and Thursdays, 3:30pm -- 4:45pm<br>
-**Location:** SAR 101 (635 Commonwealth Ave)
+**Lectures (A1):** Mondays and Wednesdays, 2:30pm -- 4:15pm<br>
+**Location:** STH B19 (745 Commonwealth Ave)
 
-**Discussion Session A2:** Fridays, 10:10am -- 11:00am<br>
-**Location:** MUG 203 (771 Commonwealth Ave)
+**Discussion Session A2:** Wednesdays, 12:20pm -- 1:10pm<br>
+**Location:** CDS 164 (665 Commonwealth Ave)
 
-**Discussion Session A3:** Fridays, 11:15am -- 12:05pm<br>
-**Location:** SAR 102 (635 Commonwealth Ave)
-
-**Discussion Session A4:** Fridays, 12:20pm -- 1:10pm<br>
-**Location:** FLR 122 (808 Commonwealth Ave)
-
-**Discussion Session A5:** Fridays, 1:25pm -- 2:15pm<br>
-**Location:** MUG 203 (771 Commonwealth Ave)
+**Discussion Session A3:** Wednesdays, 1:25pm -- 2:15pm<br>
+**Location:** STH 113 (745 Commonwealth Ave)
 
 
-**Instructor:** Thomas Gardos
-* Office: CDS 1623
-* Office Hours: Tuesdays and Thursdays, 1:30 -- 3:30pm
-* email: tgardos \<at\> bu \<dot\> edu
+**Instructor:** Jeffrey Considine
+* Office: CDS 1645
+* Office Hours: TBD
+* email: jconsidi \<at\> bu \<dot\> edu
 
-**Teaching Assistant:** Xavier Thomas
-* Office Hours: Wednesdays 9:30 -- 11:00 am, CDS 15/16 th Floor
-* email: xthomas \<at\> bu \<dot\> edu
-
-**Course Assistant:** Hemangi Suthar
-* email: hemangis \<at\> bu \<dot\> edu
+**Teaching Assistant:** Carrie Feng
+* Office Hours: TBD
+* email: carrieff \<at\> bu \<dot\> edu
 
 ## Course Description
 
