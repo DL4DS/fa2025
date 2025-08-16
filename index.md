@@ -87,18 +87,20 @@ To be added.
 
 ## Course Requirements
 
-### Homeworks
+### Homework and Projects
 
-- There will be approximately weekly assignments (usually posted on Fridays)to reinforce the key concepts and python/pytorch coding patterns. 
-- Due dates will be 7 days after the assignment is posted. 
-- A 24 hour late due date is provided for each assignment although with a 10% penalty, e.g $$P_l = 0.9 P_o$$ 
-- You'll also have 7 days after the assignment is graded to _revise and resubmit_ for up to 75% of the lost points, e.g. $$P_o + 0.75 (P_r - P_o)$$ 
-- If you were originally late, you can still revise and resubmit but the score will be $$0.9 (P_o + 0.75 (P_r - P_o))$$ 
+- In the first half of the course, there will be weekly assignments to reinforce the key concepts and coding patterns.
+Homework assignments will generally be posted on Mondays and due Wednesday the following week.
+- In the second half of the course, there will be biweekly projects to implement the bigger concepts covered in lecture and build deeper hands-on experience.
+Projects will be due 2-3 weeks after being assigned.
+- Late submissions will be allowed up to two days after the original deadline, but may be abridged (e.g. due to the end of the semester).
+Late submissions will be penalized 1% per hour (rounded up).
+- See Gradescope for specific due dates and late submission deadlines.
 
-where
-- $$P_o$$ is the original score of the assignment on the due date
-- $$P_r$$ is the revised score after revising and resubmitting within 7 days of graded assignment posting
-- $$P_l$$ is the late score of the assignment after late penalty is applied
+### Discussions
+
+- Discussion sections will focus on hands-on practice with concepts covered in lectures.
+- At the end of each discussion section, you will have to submit your code and answer questions about the exercise in Gradescope.
 
 ## Course Assessment
 
