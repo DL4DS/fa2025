@@ -5,7 +5,7 @@ title: 15 - Transformers Part 2
 tldr: "In this lecture we continue to review the transformer architecture.
 We continue the discussion of decoders and encoder-decoder architectures, 
 then discuss scaling to large contexts and then tokenization and embedding."
-thumbnail: /_images/thumbnails/ds598-lecture-13.png
+#thumbnail: /_images/thumbnails/ds598-lecture-13.png
 hide_from_announcments: true
 links: 
     - url: /static_files/lectures/14_transformers_part2.pdf

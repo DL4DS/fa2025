@@ -6,7 +6,7 @@ tldr: "We dive into deep networks by composing two shallow networks and
 visualizing their representational capabilities. We then generalize fully
 connected networks with two and more layers of hidden units. We'll compare
 the modeling efficiency between deep and shallow networks."
-thumbnail: /_images/thumbnails/lecture-03-thumbnail.png
+#thumbnail: /_images/thumbnails/lecture-03-thumbnail.png
 hide_from_announcments: true
 links: 
     - url: /static_files/lectures/05_deep_networks.pdf

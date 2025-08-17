@@ -7,7 +7,7 @@ start by looking at autoencoders and their ability to reduce dimensions of
 inputs into a latent space. We'll see why they don't make good generative 
 models and then generalize to VAEs. We'll finish with some examples of 
 generative output of VAEs."
-thumbnail: /_images/thumbnails/ds598-vaes.png
+#thumbnail: /_images/thumbnails/ds598-vaes.png
 hide_from_announcments: true
 links: 
     - url: /static_files/lectures/19_VAEs.pdf

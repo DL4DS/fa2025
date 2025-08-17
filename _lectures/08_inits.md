@@ -5,7 +5,7 @@ title: 08 - Initialization
 tldr: "In this lecture we talk about weight initialization and how it can impact
 the training results. We'll also give some tips and tricks on how to efficiently scan and
 read research papers."
-thumbnail: /_images/thumbnails/ds598-lecture-07b.png
+#thumbnail: /_images/thumbnails/ds598-lecture-07b.png
 hide_from_announcments: true
 links: 
     - url: /static_files/lectures/07b_initialization.pdf

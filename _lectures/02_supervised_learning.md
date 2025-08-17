@@ -4,7 +4,7 @@ date: 2025-09-08T14:30:00-5:00
 title: 02 - Supervised Learning and Loss Functions
 tldr: "We go a little deeper into supervised learning, introducing terminology
 and illustrating with a simple example of a linear model."
-thumbnail: /_images/thumbnails/ds598-lecture-02.png
+#thumbnail: /_images/thumbnails/ds598-lecture-02.png
 hide_from_announcments: true
 links: 
     - url: /static_files/lectures/02_supervised_learning.pdf
