@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-11-12T14:30:00-5:00
-title: 21 -- Diffusion Models
+title: 21 - Diffusion Models
 tldr: "In this lecture, we consider diffusion models, the current best practice for image generation."
 #thumbnail: /_images/thumbnails/ds598-diffusion.png
 hide_from_announcments: true

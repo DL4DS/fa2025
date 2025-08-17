@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-11-05T14:30:00-5:00
-title: 19 -- Adversarial Inputs and Generative Adversarial Models
+title: 19 - Adversarial Inputs and Generative Adversarial Models
 tldr: "In this lecture we introduce adversarial inputs.
 We will then dive into Generative Adversarial Networks (GANs) and their applications.
 We will also discuss the challenges and limitations of GANs and some of the recent advances in the field."

@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-10-29T14:30:00-5:00
-title: 17 -- Training, Tuning and Evaluating LLMs
+title: 17 - Training, Tuning and Evaluating LLMs
 tldr: "In this lecture go through the entire LLM training process, starting
 with pretraining, then finetuning. We'll also discuss how to evaluate LLMs as
 well as a parameter efficient fine tuning technique called LORA."

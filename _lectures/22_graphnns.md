@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-11-17T14:30:00-5:00
-title: 22 -- Graph Neural Networks
+title: 22 - Graph Neural Networks
 tldr: "In this lecture we introduce graph neural networks, define matrix
 representations, how to do graph level classification and regression, and
 how to define graph convolutional network layers."
