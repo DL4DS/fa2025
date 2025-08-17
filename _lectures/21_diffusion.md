@@ -11,6 +11,6 @@ links:
 #    - url: https://mymedia.bu.edu/media/t/1_tzuwe6b9
 #      name: lecture recording
 ---
-**Suggested Readings:**
+**Readings:**
 - [Rocca, Understanding Diffusion Probabilistic Models](https://towardsdatascience.com/understanding-diffusion-probabilistic-models-dpms-1940329d6048)
 - UDL Chapter 18

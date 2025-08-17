@@ -13,5 +13,5 @@ links:
     - url: https://mymedia.bu.edu/media/t/1_4l560aqn/369280102
       name: lecture recording
 ---
-**Suggested Readings:**
+**Readings:**
 - [lecture slides]({{ site.baseurl }}/static_files/lectures/11a_recurrent_networks_v2.pdf)

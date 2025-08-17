@@ -20,5 +20,5 @@ links:
     - url: https://mymedia.bu.edu/media/t/1_46jl5uiw
       name: recording 2 -- Loss Functions continued
 ---
-**Suggested Readings:**
+**Readings:**
 - UDL Chapter 5

@@ -12,5 +12,5 @@ links:
     - url: https://mymedia.bu.edu/media/t/1_v4afj348
       name: lecture recording
 ---
-**Suggested Readings:**
+**Readings:**
 - UDL Chapter 3

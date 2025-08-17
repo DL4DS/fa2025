@@ -15,5 +15,5 @@ links:
     - url: https://mymedia.bu.edu/media/t/1_nnovxevd/369280102
       name: lecture recording    
 ---
-**Suggested Readings:**
+**Readings:**
 - UDL Sections 7.5 - 7.6

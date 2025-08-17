@@ -14,6 +14,6 @@ links:
 #      name: lecture recording
 ---
 
-**Suggested Readings:**
+**Readings:**
 - UDL Chapter 1
 

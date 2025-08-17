@@ -13,6 +13,6 @@ links:
 #    - url: https://mymedia.bu.edu/media/t/1_m9hhz175
 #      name: lecture recording
 ---
-**Suggested Readings:**
+**Readings:**
 - UDL Chapter 12
 - Optional [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)

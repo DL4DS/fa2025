@@ -13,5 +13,5 @@ links:
 #    - url: https://mymedia.bu.edu/media/t/1_0woco0rx
 #      name: lecture recording
 ---
-**Suggested Readings:**
+**Readings:**
 - See slides for references
