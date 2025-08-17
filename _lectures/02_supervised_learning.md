@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-01-23T15:30:00-5:00
+date: 2025-01-23T14:30:00-5:00
 title: 02 - Supervised Learning
 tldr: "We go a little deeper into supervised learning, introducing terminology
 and illustrating with a simple example of a linear model."

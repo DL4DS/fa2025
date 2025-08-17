@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-01-28T15:30:00-5:00
+date: 2025-01-28T14:30:00-5:00
 title: 03 - Shallow Networks
 tldr: "In this lecture we consider networks with one layer of hidden units
 and explore their representational power."

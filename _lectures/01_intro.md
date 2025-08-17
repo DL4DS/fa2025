@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-09-03T15:30:00-5:00
+date: 2025-09-03T14:30:00-5:00
 title: 01 - Deep Learning Concepts and Course Logistics
 tldr: "We will introduce the topic of deep learning, a bit about it's history,
 and what impact it has had. Then we'll go over the course logistics, the 

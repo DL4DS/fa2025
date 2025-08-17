@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-01-30T15:30:00-5:00
+date: 2025-01-30T14:30:00-5:00
 title: 04 - Deep Networks
 tldr: "We dive into deep networks by composing two shallow networks and
 visualizing their representational capabilities. We then generalize fully

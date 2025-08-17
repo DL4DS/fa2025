@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-03-06T15:30:00-5:00
+date: 2025-03-06T14:30:00-5:00
 title: 11 - Convolutional Neural Networks -- Part 2
 tldr: "We cover 1D and 2D convolutional neural networks along with subsampling and upsampling
 operations."

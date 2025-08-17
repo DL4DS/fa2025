@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-02-06T15:30:00-5:00
+date: 2025-02-06T14:30:00-5:00
 title: 05a - Loss Functions, Continued
 tldr: "We reconsider loss functions as a measure of how well the data fits to
 parametric probability distribution. We show that for univariate gaussian
