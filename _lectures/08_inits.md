@@ -12,8 +12,8 @@ links:
       name: slides
     - url: /static_files/lectures/07_how_to_read_paper.pdf
       name: how to read research papers
-    - url: https://mymedia.bu.edu/media/t/1_nnovxevd/369280102
-      name: lecture recording    
+#    - url: https://mymedia.bu.edu/media/t/1_nnovxevd/369280102
+#      name: lecture recording
 ---
 **Readings:**
 - UDL Sections 7.5 - 7.6

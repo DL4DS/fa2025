@@ -10,8 +10,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/11_residual_networks.pdf
       name: slides
-    - url: https://mymedia.bu.edu/media/t/1_cu29li94/369280102
-      name: lecture recording
+#    - url: https://mymedia.bu.edu/media/t/1_cu29li94/369280102
+#      name: lecture recording
 ---
 
 **Readings:**

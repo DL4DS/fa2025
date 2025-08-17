@@ -10,8 +10,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/07a_gradients.pdf
       name: slides
-    - url: https://mymedia.bu.edu/media/t/1_m0alffvk
-      name: lecture recording
+#    - url: https://mymedia.bu.edu/media/t/1_m0alffvk
+#      name: lecture recording
 ---
 **Readings:**
 - UDL Sections 7.1 - 7.4

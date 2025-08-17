@@ -9,8 +9,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/10_convolutional_networks.pdf
       name: slides
-    - url: https://mymedia.bu.edu/media/t/1_mqe92d62/369280102
-      name: lecture recording
+#    - url: https://mymedia.bu.edu/media/t/1_mqe92d62/369280102
+#      name: lecture recording
 
 ---
 **Readings:**
