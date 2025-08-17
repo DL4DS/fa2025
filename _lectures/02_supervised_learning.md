@@ -6,7 +6,7 @@ tldr: "We go a little deeper into supervised learning, introducing terminology
 and illustrating with a simple example of a linear model."
 #thumbnail: /_images/thumbnails/ds598-lecture-02.png
 hide_from_announcments: true
-links: 
+links:
     - url: /static_files/lectures/02_supervised_learning.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_j0utasp2

@@ -8,7 +8,7 @@ connected networks with two and more layers of hidden units. We'll compare
 the modeling efficiency between deep and shallow networks."
 #thumbnail: /_images/thumbnails/lecture-03-thumbnail.png
 hide_from_announcments: true
-links: 
+links:
     - url: /static_files/lectures/05_deep_networks.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_g6vbs7za

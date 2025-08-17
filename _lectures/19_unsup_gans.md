@@ -1,14 +1,13 @@
 ---
 type: lecture
-date: 2025-04-15T14:30:00-5:00
-title: 19 -- Unsupervised Learning and GANs
-tldr: "In this lecture we revisit the concept of unsupervised learning in the
-context of generative models. 
-We will then dive into Generative Adversarial Networks (GANs) and their applications. 
+date: 2025-11-05T14:30:00-5:00
+title: 19 -- Adversarial Inputs and Generative Adversarial Models
+tldr: "In this lecture we introduce adversarial inputs.
+We will then dive into Generative Adversarial Networks (GANs) and their applications.
 We will also discuss the challenges and limitations of GANs and some of the recent advances in the field."
 #thumbnail: /_images/thumbnails/ds598-unsup-gans.png
 hide_from_announcments: true
-links: 
+links:
     - url: /static_files/lectures/18_unsup_learning_gan.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_11s31rno
