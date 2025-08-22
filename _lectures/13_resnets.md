@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-10-14T14:30:00-5:00
-title: 12 - Residual Networks
+date: 2025-10-15T14:30:00-5:00
+title: 13 - Residual Networks
 tldr: "In this lecture we introduce residual networks, the types of problems they
 solve, why we need batch normalization and then review some example residual network
 architectures."

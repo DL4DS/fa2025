@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-11-10T14:30:00-5:00
-title: 20 - Unsupervised Learning and Variational Autoencoders
+date: 2025-11-12T14:30:00-5:00
+title: 21 - Unsupervised Learning and Variational Autoencoders
 tldr: "In this lecture we revisit the concept of unsupervised learning in the
 context of generative models and then dive into Variational Autoencoders. After reviewing unsupervised learning, we look look at autoencoders and their ability to reduce dimensions of
 inputs into a latent space. We'll see why they don't make good generative

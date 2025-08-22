@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2025-12-08T14:30:00-5:00
-title: 28 - TBD
-tldr: "In this lecture we review the history of AI benchmarks and how they have driven model development so far."
+date: 2025-09-10T14:30:00-5:00
+title: 03 - Loss Functions
+tldr: "In this lecture, we will motivate and derive common loss functions from a probabilistic view point using maximum likelihood estimation."
 #thumbnail: /_images/thumbnails/ds598-gnn.png
 hide_from_announcments: true
 links:

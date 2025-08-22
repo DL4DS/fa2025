@@ -15,4 +15,4 @@ links:
 #      name: Jupyter Notebook
 ---
 **Readings:**
-- UDL Chapters 2 and 5
+- UDL Chapter 2

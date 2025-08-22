@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-09-29T14:30:00-5:00
-title: 08 - Backpropagation and Initialization
+date: 2025-10-01T14:30:00-5:00
+title: 09 - Backpropagation and Initialization
 tldr: "In this lecture we show how to efficienctly calculate gradients over
 more complex functions like deep neural networks using backpropagation, and then reason about the resulting gradients to derive better initialization schemes."
 #thumbnail: /_images/thumbnails/ds598-lecture-07a.png

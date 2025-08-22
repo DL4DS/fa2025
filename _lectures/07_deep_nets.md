@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-09-17T14:30:00-5:00
-title: 05 - Deep Networks
+date: 2025-09-24T14:30:00-5:00
+title: 07 - Deep Networks
 tldr: "We dive into deep networks by composing two shallow networks and
 visualizing their representational capabilities. We then generalize fully
 connected networks with two and more layers of hidden units. We'll compare

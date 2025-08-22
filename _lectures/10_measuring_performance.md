@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-10-01T14:30:00-5:00
-title: 09 - Measuring Performance
+date: 2025-10-06T14:30:00-5:00
+title: 10 - Measuring Performance
 tldr: "We look at measuring model training performance, the importance of test
 sets as well as how noise, bias and variance play a role in training outcomes."
 #thumbnail: /_images/thumbnails/ds598-lecture-08.png

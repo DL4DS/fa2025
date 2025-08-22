@@ -1,12 +1,12 @@
 ---
 type: lecture
 date: 2025-12-01T14:30:00-5:00
-title: 25 - Reasoning and World Models
-tldr: "In this lecture we examine claims that models have world models and can reason, and attempts to encourage such behavior."
+title: 25 - Scaling Concerns
+tldr: "In this lecture we examine the empirical tradeoffs of the so-called scaling laws and other ways to manage cost scaling."
 #thumbnail: /_images/thumbnails/ds598-gnn.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/25_reasoning_world_models.pdf
+    - url: /static_files/lectures/24_scaling.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_bt7qtymk
 #      name: lecture recording

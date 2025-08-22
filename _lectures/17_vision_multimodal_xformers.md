@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-10-27T14:30:00-5:00
-title: "16 - Vision & Multimodal Transformers"
+date: 2025-10-29T14:30:00-5:00
+title: "17 - Vision & Multimodal Transformers"
 tldr: "In this lecture we'll cover vision and multimodal transformers as a
 survey of three papers."
 #thumbnail: /_images/thumbnails/ds598-lecture-14.png

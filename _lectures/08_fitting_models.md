@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-09-24T14:30:00-5:00
-title: 07 - Fitting Models
+date: 2025-09-29T14:30:00-5:00
+title: 08 - Fitting Models
 tldr: "In this lecture we look at different ways minimizing the loss function
 for models given a training dataset. We'll formally define gradient descent,
 then show the advantages of stochastic gradient descent and then finally see
