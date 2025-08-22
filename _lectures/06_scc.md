@@ -12,4 +12,4 @@ links:
 #      name: lecture recording
 ---
 **Readings:**
-- UDL Chapter 6
+- [Shared Compute Cluster](https://www.bu.edu/tech/support/research/computing-resources/scc/)
