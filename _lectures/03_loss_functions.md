@@ -12,5 +12,5 @@ links:
 #      name: lecture recording
 ---
 **Readings:**
-- TBD
+- UDL Chapter 5
 
