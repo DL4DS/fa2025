@@ -31,6 +31,9 @@ for (lecture_number, lecture_date) in lecture_dates:
         if l.startswith("date:"):
             lecture_data[i] = f"date: {lecture_date}\n"
 
+        if l.startswith("hide_from_announcments:"):
+            lecture_data[i] = "hide_from_announcments: true\n"
+
         if l.startswith("title:"):
             l = l.split()
             if re.fullmatch("([0-9]+)", l[1]):
