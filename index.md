@@ -81,7 +81,6 @@ Students are of course free to use their own personal computer, but you will als
 
 ## Learning Management Software
 
-To be added.
 * [Piazza]({{ site.data.urls["piazza"].url }})
 * [Gradescope]({{ site.data.urls["gradescope"].url }})
 
