@@ -181,4 +181,4 @@ short cuts and using and then citing GAIA.
 If you have a disability and have an accommodations letter from the Disability & Access Services office, I encourage you to discuss your accommodations and needs with me as early in the semester as possible. I will work with you to ensure that accommodations are provided as appropriate. If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with BU Disability & Access Services, I encourage you to find more information at https://www.bu.edu/disability/.
 
 
-_This syllabus provides a general plan for the course; deviations may be necessary depending on the progress of the class._
+_This <a href="static_files/syllabus.pdf">syllabus</a> provides a general plan for the course; deviations may be necessary depending on the progress of the class._
