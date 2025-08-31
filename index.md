@@ -21,7 +21,7 @@ layout: home
 
 **Instructor:** Jeffrey Considine
 * Office: CDS 1645
-* Office Hours: TBD
+* Office Hours: Monday 11-12, Tuesday 3-4, Wednesday 1-2, Thursday 1-2
 * email: jconsidi \<at\> bu \<dot\> edu
 
 **Teaching Assistant:** Carrie Feng
