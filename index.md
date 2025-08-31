@@ -25,7 +25,8 @@ layout: home
 * email: jconsidi \<at\> bu \<dot\> edu
 
 **Teaching Assistant:** Carrie Feng
-* Office Hours: TBD
+* Office: TBD
+* Office Hours: Tuesday 11-12, Friday 11-12
 * email: carrieff \<at\> bu \<dot\> edu
 
 ## Course Description
