@@ -1,0 +1,91 @@
+\documentclass[11pt]{article}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+
+\title{DS 542 - Fall 2025 - Homework 1}
+\date{}
+
+\begin{document}
+%\vspace*{-20pt}
+\maketitle
+
+\noindent
+Feel free to write your answers by hand.
+No need for LaTeX; just make sure it is legible.
+
+\begin{enumerate}
+
+\item
+
+  Equation 2.5 in the textbook (Understanding Deep Learning) gives the equation for linear regression with one input variable using the least-squares loss.
+  \begin{eqnarray*}
+    L[\phi] & = & \sum_{i=1}^{I} \left( f[x_i,\phi] - y_i \right)^2 \\
+    & = & \sum_{i=1}^{I} \left( \phi_0 + \phi_1 x_i - y_i \right)^2
+  \end{eqnarray*}
+
+  \begin{enumerate}
+
+  \item
+
+    Derive the formula for \( \partial L / \partial \phi_0 \).
+
+    \vspace{\stretch{1}}
+
+  \item
+    Derive the formula for \( \partial L / \partial \phi_1 \).
+
+    \vspace{\stretch{1}}
+  \end{enumerate}
+
+  \newpage
+  
+\item
+
+  Answer the following questions about the following equation.
+  \begin{eqnarray*}
+    \begin{bmatrix} 1 & 5 \\ 2 & 3 \\ \end{bmatrix}
+    \begin{bmatrix} 3 & 2 \\ 4 & 0 \\ \end{bmatrix}
+    & = &
+    \begin{bmatrix} x_{0,0} & x_{0,1} \\ x_{1,0} & x_{1,1} \\ \end{bmatrix}
+  \end{eqnarray*}
+
+  \begin{enumerate}
+    
+  \item
+    
+    What is the mathematical operation on the lefthand side of the equation?
+
+    \vspace{2cm}
+
+  \item
+    Write out the formula to calculate $x_{1,0}$.
+
+    \vspace{2cm}
+  \end{enumerate}
+
+\item
+
+  Answer the following questions about ordinary least squares linear regression.
+
+  \begin{enumerate}
+
+    \item
+
+      What is the mean residual on the training data?
+
+      \vspace{2cm}
+
+    \item
+
+      Why?
+
+      \vspace{5cm}
+
+  \end{enumerate}
+  
+\end{enumerate}
+
+\end{document}  
