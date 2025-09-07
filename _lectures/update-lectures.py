@@ -24,6 +24,7 @@ for (lecture_number, lecture_date) in lecture_dates:
         sys.exit(1)
 
     (lecture_md,) = lecture_mds
+    lecture_slug = str(lecture_md).split(".")[0]
     with open(lecture_md) as read_fp:
         lecture_data = read_fp.readlines()
 
@@ -33,6 +34,11 @@ for (lecture_number, lecture_date) in lecture_dates:
 
         if l.startswith("hide_from_announcments:"):
             lecture_data[i] = "hide_from_announcments: true\n"
+
+        slide_prefix = "    - url: /static_files/lectures/"
+        if l.startswith(slide_prefix):
+            lecture_data[i] = f"{slide_prefix}{lecture_slug}.pdf\n"
+            pass
 
         if l.startswith("title:"):
             l = l.split()

@@ -7,7 +7,7 @@ operations."
 #thumbnail: /_images/thumbnails/ds598-lecture-10.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/11_convolutional_networks.pdf
+    - url: /static_files/lectures/12_cnns.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_ysrnvtej
 #      name: lecture recording

@@ -7,7 +7,7 @@ more complex functions like deep neural networks using backpropagation, and then
 #thumbnail: /_images/thumbnails/ds598-lecture-07a.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/08_backprop_init.pdf
+    - url: /static_files/lectures/09_backprop_init.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_m0alffvk
 #      name: lecture recording

@@ -6,7 +6,7 @@ tldr: "In this lecture we investigate the application of deep learning models to
 #thumbnail: /_images/thumbnails/ds598-gnn.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/26_object_detection.pdf
+    - url: /static_files/lectures/27_object_detection.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_bt7qtymk
 #      name: lecture recording

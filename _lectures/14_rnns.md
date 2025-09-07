@@ -8,7 +8,7 @@ normalization."
 #thumbnail: /_images/thumbnails/ds598-lecture-11a.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/13_recurrent_networks.pdf
+    - url: /static_files/lectures/14_rnns.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_4l560aqn/369280102
 #      name: lecture recording

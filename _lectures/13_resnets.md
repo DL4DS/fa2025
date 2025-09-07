@@ -8,7 +8,7 @@ architectures."
 #thumbnail: /_images/thumbnails/ds598-lecture-11.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/12_residual_networks.pdf
+    - url: /static_files/lectures/13_resnets.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_cu29li94/369280102
 #      name: lecture recording

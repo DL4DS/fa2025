@@ -9,7 +9,7 @@ and encoder-decoder type models."
 #thumbnail: /_images/thumbnails/ds598-lecture-12.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/14_transformers_export.pdf
+    - url: /static_files/lectures/15_transformers.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_ydtkp4td/369280102
 #      name: lecture recording

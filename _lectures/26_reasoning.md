@@ -6,7 +6,7 @@ tldr: "In this lecture we examine claims that models have world models and can r
 #thumbnail: /_images/thumbnails/ds598-gnn.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/25_reasoning_world_models.pdf
+    - url: /static_files/lectures/26_reasoning.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_bt7qtymk
 #      name: lecture recording

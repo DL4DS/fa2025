@@ -7,7 +7,7 @@ survey of three papers."
 #thumbnail: /_images/thumbnails/ds598-lecture-14.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/15_vision_tranformers.pdf
+    - url: /static_files/lectures/17_vision_transformers.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_xx62jn9q/369280102
 #      name: lecture recording
