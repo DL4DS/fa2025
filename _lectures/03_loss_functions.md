@@ -6,7 +6,7 @@ tldr: "In this lecture, we will motivate and derive common loss functions from a
 #thumbnail: /_images/thumbnails/ds598-gnn.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/28_tbd.pdf
+    - url: /static_files/lectures/03_loss_functions.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_bt7qtymk
 #      name: lecture recording
