@@ -20,6 +20,9 @@ title: page.title
       {% if page.latex %}
       [<a href="{{ page.latex | prepend: site.baseurl }}">LaTeX Source</a>]
       {% endif %}
+      {% if page.jupyter %}
+      [<a href="{{ page.jupyter }}">Jupyter Notebook</a>]
+      {% endif %}
       {% if page.solutions %}
       [<a href="{{ page.solutions | prepend: site.baseurl }}">solutions</a>]
       {% endif %}
