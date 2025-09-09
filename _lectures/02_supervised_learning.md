@@ -9,10 +9,10 @@ hide_from_announcments: true
 links:
     - url: /static_files/lectures/02_supervised_learning.pdf
       name: slides
-#    - url: https://mymedia.bu.edu/media/t/1_j0utasp2
-#      name: lecture recording
-#    - url: https://github.com/DL4DS/sp2024_notebooks/blob/main/release/nbs02/2_1_Supervised_Learning.ipynb
-#      name: Jupyter Notebook
+    - url: /static_files/lectures/02_supervised_learning_annotated.pdf
+      name: annotated slides
+    - url: https://echo360.org/lesson/G_838b35d7-329e-402a-876b-d51a5a4e2e38_ce95771d-32af-4a00-a68f-ff891306f848_2025-09-08T14:30:00.000_2025-09-08T16:15:00.000/classroom
+      name: lecture recording
 ---
 **Readings:**
 - UDL Chapter 2
