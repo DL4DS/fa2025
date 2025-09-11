@@ -13,4 +13,4 @@ links:
 ---
 **Readings:**
 - [Rocca, Understanding Diffusion Probabilistic Models](https://towardsdatascience.com/understanding-diffusion-probabilistic-models-dpms-1940329d6048)
-- UDL Chapter 18
+- [Understanding Deep Learning](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf), Chapter 18

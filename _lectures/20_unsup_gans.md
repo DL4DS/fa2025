@@ -14,4 +14,4 @@ links:
 #      name: lecture recording
 ---
 **Readings:**
-- UDL Chapters 14 and 15
+- [Understanding Deep Learning](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf), Chapters 14 and 15

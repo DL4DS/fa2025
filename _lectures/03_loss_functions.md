@@ -14,5 +14,5 @@ links:
       name: lecture recording
 ---
 **Readings:**
-- UDL Chapter 5
-
+- [Understanding Deep Learning](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf), Chapter 5
+- [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf), Chapters 6 and 8, especially 8.1.3
