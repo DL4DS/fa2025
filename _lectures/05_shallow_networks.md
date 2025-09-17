@@ -9,6 +9,8 @@ hide_from_announcments: true
 links:
     - url: /static_files/lectures/05_shallow_networks.pdf
       name: slides
+    - url: /static_files/lectures/05_shallow_networks_annotated.pdf
+      name: annotated slides
 #    - url: https://mymedia.bu.edu/media/t/1_v4afj348
 #      name: lecture recording
 ---
