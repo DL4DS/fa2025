@@ -6,8 +6,8 @@ tldr: "In this lecture, IS&T staff will introduce us to the use of the shared co
 #thumbnail: /_images/thumbnails/ds598-lecture-06.png
 hide_from_announcments: true
 links:
-#    - url: /static_files/lectures/06_fitting_models.pdf
-#      name: slides
+    - url: /static_files/lectures/06_scc.pdf
+      name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_ha9w43vh
 #      name: lecture recording
 ---
