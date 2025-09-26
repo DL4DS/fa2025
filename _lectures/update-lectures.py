@@ -36,7 +36,9 @@ for (lecture_number, lecture_date) in lecture_dates:
             lecture_data[i] = "hide_from_announcments: true\n"
 
         slide_prefix = "    - url: /static_files/lectures/"
-        if l.startswith(slide_prefix):
+        if l.startswith(slide_prefix) and "_annotated.pdf" in l:
+            lecture_data[i] = f"{slide_prefix}{lecture_slug}_annotated.pdf\n"
+        elif l.startswith(slide_prefix):
             lecture_data[i] = f"{slide_prefix}{lecture_slug}.pdf\n"
             pass
 
