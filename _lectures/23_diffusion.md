@@ -1,12 +1,12 @@
 ---
 type: lecture
-date: 2025-11-17T14:30:00-5:00
-title: 22 - Diffusion Models
+date: 2025-11-19T14:30:00-5:00
+title: 23 - Diffusion Models
 tldr: "In this lecture, we consider diffusion models, the current best practice for image generation."
 #thumbnail: /_images/thumbnails/ds598-diffusion.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/22_diffusion.pdf
+    - url: /static_files/lectures/23_diffusion.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_tzuwe6b9
 #      name: lecture recording
