@@ -9,6 +9,6 @@ hide_from_announcments: true
 #    - url: /static_files/discussion_slides/00_discussion.pdf
 #      name: slides
 ---
-**Notebook:** [06_regularization.ipynb](https://github.com/DL4DS/fa2025_discussions/blob/main/06_regularization.ipynb)    
+**Notebook:** [discussion_6.ipynb](https://github.com/DL4DS/fa2025_discussions/blob/main/discussion_6.ipynb)    
 **Suggested Readings:**
 - TBD

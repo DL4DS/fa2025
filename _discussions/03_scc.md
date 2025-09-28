@@ -9,7 +9,7 @@ hide_from_announcments: true
 #    - url: /static_files/discussion_slides/00_discussion.pdf
 #      name: slides
 ---
-**Notebook:** [03_scc.ipynb](https://github.com/DL4DS/fa2025_discussions/blob/main/03_scc.ipynb)    
+**Notebook:** [discussion_3.ipynb](https://github.com/DL4DS/fa2025_discussions/blob/main/discussion_3.ipynb)
 **Suggested Readings:**
 - [SCC OnDemand Web Portal](https://www.bu.edu/tech/support/research/system-usage/connect-scc/scc-ondemand/)
 

@@ -9,6 +9,6 @@ hide_from_announcments: true
 #    - url: /static_files/discussion_slides/00_discussion.pdf
 #      name: slides
 ---
-**Notebook:** [12_finetuning.ipynb](https://github.com/DL4DS/fa2025_discussions/blob/main/12_finetuning.ipynb)    
+**Notebook:** [discussion_12.ipynb](https://github.com/DL4DS/fa2025_discussions/blob/main/discussion_12.ipynb)    
 **Suggested Readings:**
 - TBD

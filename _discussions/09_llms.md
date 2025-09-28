@@ -9,6 +9,6 @@ hide_from_announcments: true
 #    - url: /static_files/discussion_slides/00_discussion.pdf
 #      name: slides
 ---
-**Notebook:** [09_llms.ipynb](https://github.com/DL4DS/fa2025_discussions/blob/main/09_llms.ipynb)    
+**Notebook:** [discussion_9.ipynb](https://github.com/DL4DS/fa2025_discussions/blob/main/discussion_9.ipynb)    
 **Suggested Readings:**
 - TBD

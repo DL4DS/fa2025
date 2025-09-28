@@ -9,7 +9,7 @@ hide_from_announcments: true
 #    - url: /static_files/discussion_slides/00_discussion.pdf
 #      name: slides
 ---
-**Notebook:** [04_neural_network.ipynb](https://github.com/DL4DS/fa2025_discussions/blob/main/04_neural_network.ipynb)    
+**Notebook:** [discussion_4.ipynb](https://github.com/DL4DS/fa2025_discussions/blob/main/discussion_4.ipynb)    
 **Suggested Readings:**
 - [Building Models with PyTorch](https://docs.pytorch.org/tutorials/beginner/introyt/modelsyt_tutorial.html)
 

@@ -9,6 +9,6 @@ hide_from_announcments: true
 #    - url: /static_files/discussion_slides/00_discussion.pdf
 #      name: slides
 ---
-**Notebook:** [13_reasoning.ipynb](https://github.com/DL4DS/fa2025_discussions/blob/main/13_reasoning.ipynb)    
+**Notebook:** [discussion_13.ipynb](https://github.com/DL4DS/fa2025_discussions/blob/main/discussion_13.ipynb)    
 **Suggested Readings:**
 - TBD
