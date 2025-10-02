@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2025-11-10T14:30:00-5:00
-title: Contrastive Learning
+date: 2025-12-10T14:30:00-5:00
+title: 28 - Contrastive Learning
 thumbnail: /_images/thumbnails/ds542-lecture-02.png
 hide_from_announcments: true
 links:
-  - url: /static_files/lectures/18_contrastive_learning.pdf
+  - url: /static_files/lectures/28_contrastive_learning.pdf
     name: slides
 ---
 **Readings:**
