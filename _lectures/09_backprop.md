@@ -1,3 +1,4 @@
+
 ---
 type: lecture
 date: 2025-10-01T14:30:00-5:00
@@ -15,4 +16,4 @@ links:
       name: lecture recording
 ---
 **Readings:**
-- [Understanding Deep Learning](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf), Chapters 7.1 - 7.6
+- [Understanding Deep Learning](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf), Chapters 7.1 - 7.5
