@@ -16,3 +16,4 @@ links:
 ---
 **Readings:**
 - [Understanding Deep Learning](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf), Chapter 8
+- [Double Descent Demystified](https://iclr-blogposts.github.io/2024/blog/double-descent-demystified/)
