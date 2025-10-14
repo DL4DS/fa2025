@@ -9,8 +9,10 @@ hide_from_announcments: true
 links:
     - url: /static_files/lectures/12_regularization.pdf
       name: slides
-#    - url: https://mymedia.bu.edu/media/t/1_jkjyw7l2
-#      name: lecture recording
+    - url: /static_files/lectures/12_regularization_annotated.pdf
+      name: annotated slides
+    - url: https://echo360.org/lesson/G_c0bffa85-b7b8-48a5-82b9-430b367d2687_ce95771d-32af-4a00-a68f-ff891306f848_2025-10-14T14:30:00.000_2025-10-14T16:14:00.000/classroom
+      name: lecture recording
 
 ---
 **Readings:**
