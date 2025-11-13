@@ -12,6 +12,10 @@ hide_from_announcments: true
 links:
     - url: /static_files/lectures/21_vaes.pdf
       name: slides
+    - url: /static_files/lectures/21_vaes_annotated.pdf
+      name: annotated slides
+    - url: https://echo360.org/lesson/G_838b35d7-329e-402a-876b-d51a5a4e2e38_ce95771d-32af-4a00-a68f-ff891306f848_2025-11-12T14:30:00.000_2025-11-12T16:15:00.000/classroom
+      name: lecture recording
 ---
 **Readings:**
 - [Understanding Variational Autoencoders](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
