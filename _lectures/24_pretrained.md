@@ -12,5 +12,5 @@ links:
 #      name: lecture recording
 ---
 **Readings:**
-- TBD
-
+- [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
+- [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
