@@ -1,14 +1,14 @@
 ---
 type: lecture
-date: 2025-12-10T14:30:00-5:00
-title: 28 - Graph Neural Networks
+date: 2025-12-08T14:30:00-5:00
+title: 27 - Graph Neural Networks
 tldr: "In this lecture we introduce graph neural networks, define matrix
 representations, how to do graph level classification and regression, and
 how to define graph convolutional network layers."
 #thumbnail: /_images/thumbnails/ds598-gnn.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/28_graphnns.pdf
+    - url: /static_files/lectures/27_graphnns.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_bt7qtymk
 #      name: lecture recording
