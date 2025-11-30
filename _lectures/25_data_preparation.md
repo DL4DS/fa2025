@@ -12,4 +12,5 @@ links:
 ---
 **Readings:**
 - [Understanding deep learning (still) requires rethinking generalization](https://dl.acm.org/doi/10.1145/3446776) (access through BU)
-
+- [Leveraging Random Label Memorization for Unsupervised Pre-Training](https://arxiv.org/abs/1811.01640)
+- [What Do Neural Networks Learn When Trained With Random Labels?](https://papers.nips.cc/paper/2020/file/e4191d610537305de1d294adb121b513-Paper.pdf)
