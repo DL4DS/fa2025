@@ -12,10 +12,18 @@ links:
 #      name: lecture recording
 ---
 **Readings:**
-- [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916)
+- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903)
+- [Large Language Models are Zero-Shot Reasoners](https://proceedings.neurips.cc/paper_files/paper/2022/file/8bb0d291acd4acf06ef112099c16f326-Paper-Conference.pdf)
+- [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
+- [OpenAI Harmony Response Format](https://cookbook.openai.com/articles/openai-harmony)
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
-- [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393)
 - [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://machinelearning.apple.com/research/illusion-of-thinking)
+- [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://openaccess.thecvf.com/content/CVPR2023/papers/Assran_Self-Supervised_Learning_From_Images_With_a_Joint-Embedding_Predictive_Architecture_CVPR_2023_paper.pdf)
+
+**Extra Readings:**
+- [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393)
 - [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - [AlphaGeometry: An Olympiad-level AI system for geometry](https://deepmind.google/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/)
-
+- [How Does A Blind Model See The Earth?](https://outsidetext.substack.com/p/how-does-a-blind-model-see-the-earth)
+- [Language Models, World Models, and Human Model-Building](https://lingo.csail.mit.edu/blog/world_models/)
+- [LLMs and World Models](https://aiguide.substack.com/p/llms-and-world-models-part-1)
